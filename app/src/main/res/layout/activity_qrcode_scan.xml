@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".QRcode_scan"
     android:orientation="vertical"
-    android:background="@drawable/loginbackground">
+    android:background="@drawable/infobackground">
 
     <LinearLayout
         android:layout_width="match_parent"

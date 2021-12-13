@@ -64,14 +64,14 @@ public class QRcode_scan extends AppCompatActivity {
                             if (document.exists()) {
                                 Log.d(TAG, "DocumentSnapshot data: " + document.getData().toString());
                                 Map<String, Object> getData = document.getData();
-                                addressTxet.setText(getData.get("주소 : " + "address").toString());
-                                birthDayTxet.setText(getData.get("생년월일 : " + "birthDay").toString());
-                                feverTxat.setText(getData.get("열" + "fever").toString());
-                                heightTxet.setText(getData.get("신장 : "+ "height" + "CM").toString());
-                                medicineTxet.setText(getData.get("약 복용 : " + "medicine").toString());
-                                nameTxet.setText("이름 : "+ getData.get("name").toString());
-                                phoneNumberTxet.setText(getData.get("전화번호 : " + "phoneNumber").toString());
-                                weightTxet.setText(getData.get("몸무개 : " + "weight" + "Kg").toString());
+                                addressTxet.setText(getData.get("address").toString());
+                                birthDayTxet.setText(getData.get("birthDay").toString());
+                                feverTxat.setText(getData.get("fever").toString());
+                                heightTxet.setText(getData.get("height").toString());
+                                medicineTxet.setText(getData.get("medicine").toString());
+                                nameTxet.setText(getData.get("name").toString());
+                                phoneNumberTxet.setText(getData.get("phoneNumber").toString());
+                                weightTxet.setText(getData.get("weight").toString());
 
 
                             } else {

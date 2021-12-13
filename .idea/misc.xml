@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/medicalscan/app/src/main/res/drawable/button_shape.xml" value="0.21302083333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/medicalscan/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21302083333333333" />
         <entry key="..\:/Users/user/AndroidStudioProjects/medicalscan/app/src/main/res/layout/activity_login.xml" value="0.1644021739130435" />
         <entry key="..\:/Users/user/AndroidStudioProjects/medicalscan/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/user/AndroidStudioProjects/medicalscan/app/src/main/res/layout/activity_member_init.xml" value="0.1" />
@@ -10,6 +12,7 @@
         <entry key="..\:/Users/user/AndroidStudioProjects/medicalscan/app/src/main/res/layout/activity_qrcode_scan.xml" value="0.1" />
         <entry key="..\:/Users/user/AndroidStudioProjects/medicalscan/app/src/main/res/layout/activity_sign_up.xml" value="0.1644021739130435" />
         <entry key="..\:/Users/user/AndroidStudioProjects/medicalscan/app/src/main/res/layout/cascsac.xml" value="0.19701086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/medicalscan/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21302083333333333" />
       </map>
     </option>
   </component>
